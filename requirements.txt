@@ -1,0 +1,5 @@
+black
+inquirer
+numpy
+pre-commit
+spotipy
